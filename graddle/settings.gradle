@@ -1,0 +1,5 @@
+rootProject.name = 'graddle'
+
+include 'db'
+include 'services'
+include 'api'
